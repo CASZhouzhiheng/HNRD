@@ -1,7 +1,0 @@
-numpy>=1.23
-pandas>=1.5
-scipy>=1.9
-torch>=2.0
-torch-scatter
-dhg>=0.9.5
-
